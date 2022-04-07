@@ -1,0 +1,49 @@
+.search-bar-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    width: 100%;
+}
+
+.search-bar {
+    width: 400px;
+    height: 30px;
+}
+
+.upload-a-file {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-left: -10px;
+    width: 100%;
+}
+
+.choose-file {
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.label-privacy-dropdown {
+    margin-top: 10px;
+    margin-right: 5px;
+    margin-left: -50px;
+}
+
+.dropdown-privacy {
+    width: 100px;
+    margin-right: 50px;
+    height: 30px;
+    margin-top: 5px;
+}
+
+.upload-button {
+    height: 30px;
+    width: 200px;
+    margin-top: 2px;
+    border-radius: 20px;
+    border-style: none;
+    font-size: 15px;
+    color: #000;
+    background-color: #fff;
+    box-shadow: 0px 2px 2px 2px  grey;
+}
